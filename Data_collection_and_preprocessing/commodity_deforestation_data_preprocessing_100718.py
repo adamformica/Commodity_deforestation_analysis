@@ -1,11 +1,17 @@
 import os
 from qgis.utils import iface
 
+# note: all spatial files possible to download
+# and process with code below
+# they were not uploaded to GitHub because of their
+# large file size 
+
 # download Hansen et al. 2013 tiles in R
+# see source links in lossyear.txt
 
 # store hansen tile filepaths and filenames in lists
 
-inpath = "F:/Commodity loss/Hansen_data/"
+inpath = "C:/Users/Sensonomic Admin/Desktop/Commodity_deforestation_analysis_data/Hansen_data/"
 filepaths = []
 for file in os.listdir(inpath):
 	if file.endswith(".tif"):
@@ -26,7 +32,7 @@ for filepath in filepaths:
 # if the input layer has a different resolution, 
 # the values will be resampled with the nearest neighbor algorithm.
 
-outpath = 'F:/Commodity loss/Hansen_data_resample_nn/'
+outpath = 'C:/Users/Sensonomic Admin/Desktop/Commodity_deforestation_analysis_data/Hansen_data_resample_nn/'
 j = 1
 k = 0
 for filepath in filepaths:
@@ -43,13 +49,13 @@ for filepath in filepaths:
 	
 # reproject 1km hansen tiles to igh crs
 	
-inpath_resample = "F:/Commodity loss/Hansen_data_resample_nn/"
+inpath_resample = "C:/Users/Sensonomic Admin/Desktop/Commodity_deforestation_analysis_data/Hansen_data_resample_nn/"
 filepaths_resample = []
 for file in os.listdir(inpath_resample):
 	if file.endswith(".tif"):
 		filepaths_resample.append(os.path.join(inpath_resample, file))
 
-outpath_reproject = 'F:/Commodity loss/Hansen_data_reproject/'
+outpath_reproject = 'C:/Users/Sensonomic Admin/Desktop/Commodity_deforestation_analysis_data/Hansen_data_reproject/'
 m = 0
 for filepath in filepaths_resample:
 	processing.run("gdal:warpreproject",
@@ -69,7 +75,7 @@ for filepath in filepaths_resample:
 	
 # merge 1km reprojected hansen tiles
 	
-inpath_reproject = "F:/Commodity loss/Hansen_data_reproject/"
+inpath_reproject = "C:/Users/Sensonomic Admin/Desktop/Commodity_deforestation_analysis_data/Hansen_data_reproject/"
 filepaths_reproject = []
 for file in os.listdir(inpath_reproject):
 	if file.endswith(".tif"):
@@ -83,7 +89,7 @@ processing.run("gdal:merge",
 'NODATA_OUTPUT':None,
 'OPTIONS':'',
 'DATA_TYPE':5,
-'OUTPUT':'F:/Commodity loss/hansen_merge.tif'})
+'OUTPUT':'C:/Users/Sensonomic Admin/Desktop/Commodity_deforestation_analysis_data/hansen_merge.tif'})
 
 # assign igh projection to aau3445-data-s3.tif in R
 
@@ -91,12 +97,12 @@ processing.run("gdal:merge",
 
 # resample commodities mask to 1km resolution
 
-commodities_mask_path = 'F:/Commodity loss/commodities_mask.tif'
-hansen_merge_path = 'F:/Commodity loss/hansen_merge.tif'
+commodities_mask_path = 'C:/Users/Sensonomic Admin/Desktop/Commodity_deforestation_analysis_data/commodities_mask.tif'
+hansen_merge_path = 'C:/Users/Sensonomic Admin/Desktop/Commodity_deforestation_analysis_data/hansen_merge.tif'
 hansen_merge = QgsRasterLayer(hansen_merge_path, "my layer")
 processing.run("grass7:r.resample",
 {'input':commodities_mask_path,
-'output':'F:/Commodity loss/commodities_mask_resample.tif',
+'output':'C:/Users/Sensonomic Admin/Desktop/Commodity_deforestation_analysis_data/commodities_mask_resample.tif',
 'GRASS_REGION_PARAMETER':hansen_merge,
 'GRASS_REGION_CELLSIZE_PARAMETER':934.736,
 'GRASS_RASTER_FORMAT_OPT':'',
@@ -106,15 +112,15 @@ processing.run("grass7:r.resample",
 
 # apply zonal histogram to masked hansen mosaic
 
-hansen_mask_path = 'F:/Commodity loss/hansen_mask.tif'
-countries_path = 'F:/Commodity loss/ne_50m_admin_0_countries/ne_50m_admin_0_countries.shp'
+hansen_mask_path = 'C:/Users/Sensonomic Admin/Desktop/Commodity_deforestation_analysis_data/hansen_mask.tif'
+countries_path = 'C:/Users/Sensonomic Admin/Desktop/Commodity_deforestation_analysis_data/ne_50m_admin_0_countries/ne_50m_admin_0_countries.shp'
 processing.run("native:zonalhistogram",
 {'INPUT_RASTER':hansen_mask_path,
 'RASTER_BAND':1,
 'INPUT_VECTOR':countries_path,
 'COLUMN_PREFIX':'HISTO_',
-'OUTPUT':'F:/Commodity loss/hansen_mask_zonal.gpkg'})
+'OUTPUT':'C:/Users/Sensonomic Admin/Desktop/Commodity_deforestation_analysis_data/hansen_mask_zonal.gpkg'})
 
 # open hansen_mask_zonal.gpkg in QGIS
 # select export -> save features as -> format csv
-# save as "F:/Commodity loss/hansen_mask_zonal.csv"
+# save as "C:/Users/Sensonomic Admin/Desktop/Commodity_deforestation_analysis_data/hansen_mask_zonal.csv"

@@ -1,0 +1,976 @@
+"Area","Item","year","sum"
+"Argentina","Maize",2001,2.815504
+"Argentina","Maize",2002,2.420124
+"Argentina","Maize",2003,2.322857
+"Argentina","Maize",2004,2.338602
+"Argentina","Maize",2005,2.783436
+"Argentina","Maize",2006,2.447166
+"Argentina","Maize",2007,2.838072
+"Argentina","Maize",2008,3.412155
+"Argentina","Maize",2009,2.353175
+"Argentina","Maize",2010,2.904035
+"Argentina","Maize",2011,3.747838
+"Argentina","Maize",2012,3.6963
+"Argentina","Maize",2013,4.863801
+"Argentina","Maize",2014,4.836655
+"Argentina","Maize",2015,4.62688
+"Argentina","Soybeans",2001,10.400193
+"Argentina","Soybeans",2002,11.405247
+"Argentina","Soybeans",2003,12.419995
+"Argentina","Soybeans",2004,14.304539
+"Argentina","Soybeans",2005,14.032198
+"Argentina","Soybeans",2006,15.130038
+"Argentina","Soybeans",2007,15.981264
+"Argentina","Soybeans",2008,16.387438
+"Argentina","Soybeans",2009,16.771003
+"Argentina","Soybeans",2010,18.1308
+"Argentina","Soybeans",2011,18.76485
+"Argentina","Soybeans",2012,17.57732
+"Argentina","Soybeans",2013,19.418824
+"Argentina","Soybeans",2014,19.252552
+"Argentina","Soybeans",2015,19.334915
+"Argentina","Wheat",2001,6.475695
+"Argentina","Wheat",2002,6.88797
+"Argentina","Wheat",2003,6.08963
+"Argentina","Wheat",2004,5.782072
+"Argentina","Wheat",2005,6.12357
+"Argentina","Wheat",2006,5.02814
+"Argentina","Wheat",2007,5.58923
+"Argentina","Wheat",2008,5.831684
+"Argentina","Wheat",2009,4.33478
+"Argentina","Wheat",2010,3.325457
+"Argentina","Wheat",2011,4.582575
+"Argentina","Wheat",2012,4.560213
+"Argentina","Wheat",2013,3.060199
+"Argentina","Wheat",2014,5.031385
+"Argentina","Wheat",2015,4.027467
+"Argentina","Other",2001,5.782467
+"Argentina","Other",2002,5.452477
+"Argentina","Other",2003,5.577654
+"Argentina","Other",2004,5.188721
+"Argentina","Other",2005,5.425936
+"Argentina","Other",2006,5.674927
+"Argentina","Other",2007,6.327343
+"Argentina","Other",2008,6.653874
+"Argentina","Other",2009,5.64405
+"Argentina","Other",2010,6.075954
+"Argentina","Other",2011,7.231574
+"Argentina","Other",2012,8.007556
+"Argentina","Other",2013,6.894054
+"Argentina","Other",2014,6.447465
+"Argentina","Other",2015,6.882787
+"Australia","Barley",2001,3.454047
+"Australia","Barley",2002,3.707378
+"Australia","Barley",2003,3.863778
+"Australia","Barley",2004,4.477024
+"Australia","Barley",2005,4.645658
+"Australia","Barley",2006,4.405727
+"Australia","Barley",2007,4.181979
+"Australia","Barley",2008,4.901838
+"Australia","Barley",2009,5.015011
+"Australia","Barley",2010,4.421596
+"Australia","Barley",2011,3.680994
+"Australia","Barley",2012,3.718261
+"Australia","Barley",2013,3.644368
+"Australia","Barley",2014,3.814113
+"Australia","Barley",2015,4.078041
+"Australia","Wheat",2001,12.141389
+"Australia","Wheat",2002,11.529155
+"Australia","Wheat",2003,11.17028
+"Australia","Wheat",2004,13.067077
+"Australia","Wheat",2005,13.399397
+"Australia","Wheat",2006,12.442719
+"Australia","Wheat",2007,11.797888
+"Australia","Wheat",2008,12.578309
+"Australia","Wheat",2009,13.530196
+"Australia","Wheat",2010,13.88103
+"Australia","Wheat",2011,13.50178
+"Australia","Wheat",2012,13.90214
+"Australia","Wheat",2013,12.979382
+"Australia","Wheat",2014,12.613226
+"Australia","Wheat",2015,12.383673
+"Australia","Other",2001,7.198312
+"Australia","Other",2002,7.146288
+"Australia","Other",2003,6.525594
+"Australia","Other",2004,6.675811
+"Australia","Other",2005,6.598073
+"Australia","Other",2006,6.418401
+"Australia","Other",2007,6.038972
+"Australia","Other",2008,6.667461
+"Australia","Other",2009,6.511892
+"Australia","Other",2010,6.470302
+"Australia","Other",2011,7.676127
+"Australia","Other",2012,7.637658
+"Australia","Other",2013,8.10706
+"Australia","Other",2014,7.07956
+"Australia","Other",2015,7.337109
+"Bolivia","Maize",2001,0.306118
+"Bolivia","Maize",2002,0.310465
+"Bolivia","Maize",2003,0.295509
+"Bolivia","Maize",2004,0.313849
+"Bolivia","Maize",2005,0.337779
+"Bolivia","Maize",2006,0.34308
+"Bolivia","Maize",2007,0.364159
+"Bolivia","Maize",2008,0.4333
+"Bolivia","Maize",2009,0.416685
+"Bolivia","Maize",2010,0.365354
+"Bolivia","Maize",2011,0.37071
+"Bolivia","Maize",2012,0.365773
+"Bolivia","Maize",2013,0.42681
+"Bolivia","Maize",2014,0.463479
+"Bolivia","Maize",2015,0.441545
+"Bolivia","Soybeans",2001,0.615292
+"Bolivia","Soybeans",2002,0.637124
+"Bolivia","Soybeans",2003,0.684213
+"Bolivia","Soybeans",2004,0.80399
+"Bolivia","Soybeans",2005,0.941068
+"Bolivia","Soybeans",2006,0.950118
+"Bolivia","Soybeans",2007,0.958279
+"Bolivia","Soybeans",2008,0.785793
+"Bolivia","Soybeans",2009,0.902218
+"Bolivia","Soybeans",2010,1.086769
+"Bolivia","Soybeans",2011,1.177541
+"Bolivia","Soybeans",2012,1.292826
+"Bolivia","Soybeans",2013,1.222855
+"Bolivia","Soybeans",2014,1.282455
+"Bolivia","Soybeans",2015,1.322992
+"Bolivia","Other",2001,1.241707
+"Bolivia","Other",2002,1.336863
+"Bolivia","Other",2003,1.240259
+"Bolivia","Other",2004,1.270652
+"Bolivia","Other",2005,1.389098
+"Bolivia","Other",2006,1.417314
+"Bolivia","Other",2007,1.531158
+"Bolivia","Other",2008,1.55113
+"Bolivia","Other",2009,1.784123
+"Bolivia","Other",2010,1.640573
+"Bolivia","Other",2011,1.684566
+"Bolivia","Other",2012,1.777484
+"Bolivia","Other",2013,2.181845
+"Bolivia","Other",2014,1.918747
+"Bolivia","Other",2015,1.914475
+"Brazil","Maize",2001,12.335175
+"Brazil","Maize",2002,11.760965
+"Brazil","Maize",2003,12.965678
+"Brazil","Maize",2004,12.410677
+"Brazil","Maize",2005,11.549425
+"Brazil","Maize",2006,12.613094
+"Brazil","Maize",2007,13.7674
+"Brazil","Maize",2008,14.444582
+"Brazil","Maize",2009,13.654715
+"Brazil","Maize",2010,12.678875
+"Brazil","Maize",2011,13.218892
+"Brazil","Maize",2012,14.198496
+"Brazil","Maize",2013,15.279652
+"Brazil","Maize",2014,15.432909
+"Brazil","Maize",2015,15.40601
+"Brazil","Soybeans",2001,13.985099
+"Brazil","Soybeans",2002,16.359441
+"Brazil","Soybeans",2003,18.524768
+"Brazil","Soybeans",2004,21.53899
+"Brazil","Soybeans",2005,22.948874
+"Brazil","Soybeans",2006,22.047348
+"Brazil","Soybeans",2007,20.565279
+"Brazil","Soybeans",2008,21.246302
+"Brazil","Soybeans",2009,21.750468
+"Brazil","Soybeans",2010,23.327296
+"Brazil","Soybeans",2011,23.968663
+"Brazil","Soybeans",2012,24.975258
+"Brazil","Soybeans",2013,27.906675
+"Brazil","Soybeans",2014,30.273763
+"Brazil","Soybeans",2015,32.181243
+"Brazil","Sugar cane",2001,4.957897
+"Brazil","Sugar cane",2002,5.100405
+"Brazil","Sugar cane",2003,5.37102
+"Brazil","Sugar cane",2004,5.631741
+"Brazil","Sugar cane",2005,5.805518
+"Brazil","Sugar cane",2006,6.355498
+"Brazil","Sugar cane",2007,7.08092
+"Brazil","Sugar cane",2008,8.140089
+"Brazil","Sugar cane",2009,8.617555
+"Brazil","Sugar cane",2010,9.076706
+"Brazil","Sugar cane",2011,9.601316
+"Brazil","Sugar cane",2012,9.705388
+"Brazil","Sugar cane",2013,10.195166
+"Brazil","Sugar cane",2014,10.419678
+"Brazil","Sugar cane",2015,10.111376
+"Brazil","Other",2001,19.969048
+"Brazil","Other",2002,20.862832
+"Brazil","Other",2003,21.729964
+"Brazil","Other",2004,23.342315
+"Brazil","Other",2005,23.257251
+"Brazil","Other",2006,21.235103
+"Brazil","Other",2007,21.149231
+"Brazil","Other",2008,21.673601
+"Brazil","Other",2009,21.462379
+"Brazil","Other",2010,20.399205
+"Brazil","Other",2011,21.422771
+"Brazil","Other",2012,19.419316
+"Brazil","Other",2013,18.861054
+"Brazil","Other",2014,20.180081
+"Brazil","Other",2015,19.083469
+"Cambodia","Rice, paddy",2001,1.980295
+"Cambodia","Rice, paddy",2002,1.994645
+"Cambodia","Rice, paddy",2003,2.242036
+"Cambodia","Rice, paddy",2004,2.10905
+"Cambodia","Rice, paddy",2005,2.4145
+"Cambodia","Rice, paddy",2006,2.516415
+"Cambodia","Rice, paddy",2007,2.566
+"Cambodia","Rice, paddy",2008,2.613363
+"Cambodia","Rice, paddy",2009,2.674603
+"Cambodia","Rice, paddy",2010,2.776507
+"Cambodia","Rice, paddy",2011,2.968529
+"Cambodia","Rice, paddy",2012,3.007545
+"Cambodia","Rice, paddy",2013,2.964477
+"Cambodia","Rice, paddy",2014,2.856703
+"Cambodia","Rice, paddy",2015,2.795063
+"Cambodia","Other",2001,0.40017
+"Cambodia","Other",2002,0.420977
+"Cambodia","Other",2003,0.487396
+"Cambodia","Other",2004,0.524933
+"Cambodia","Other",2005,0.59184
+"Cambodia","Other",2006,0.640392
+"Cambodia","Other",2007,0.691655
+"Cambodia","Other",2008,0.773379
+"Cambodia","Other",2009,0.850969
+"Cambodia","Other",2010,0.929648
+"Cambodia","Other",2011,1.00358
+"Cambodia","Other",2012,1.018105
+"Cambodia","Other",2013,1.031745
+"Cambodia","Other",2014,0.940473
+"Cambodia","Other",2015,0.940944
+"Colombia","Coffee, green",2001,0.704846
+"Colombia","Coffee, green",2002,0.71051
+"Colombia","Coffee, green",2003,0.721362
+"Colombia","Coffee, green",2004,0.771219
+"Colombia","Coffee, green",2005,0.806884
+"Colombia","Coffee, green",2006,0.785535
+"Colombia","Coffee, green",2007,0.79766
+"Colombia","Coffee, green",2008,0.732656
+"Colombia","Coffee, green",2009,0.765345
+"Colombia","Coffee, green",2010,0.778052
+"Colombia","Coffee, green",2011,0.723921
+"Colombia","Coffee, green",2012,0.696023
+"Colombia","Coffee, green",2013,0.771725
+"Colombia","Coffee, green",2014,0.795563
+"Colombia","Coffee, green",2015,0.801118
+"Colombia","Maize",2001,0.574281
+"Colombia","Maize",2002,0.55485
+"Colombia","Maize",2003,0.570917
+"Colombia","Maize",2004,0.615855
+"Colombia","Maize",2005,0.576791
+"Colombia","Maize",2006,0.603562
+"Colombia","Maize",2007,0.626616
+"Colombia","Maize",2008,0.623025
+"Colombia","Maize",2009,0.581243
+"Colombia","Maize",2010,0.522237
+"Colombia","Maize",2011,0.601517
+"Colombia","Maize",2012,0.644651
+"Colombia","Maize",2013,0.629857
+"Colombia","Maize",2014,0.505751
+"Colombia","Maize",2015,0.400673
+"Colombia","Rice, paddy",2001,0.474205
+"Colombia","Rice, paddy",2002,0.42979
+"Colombia","Rice, paddy",2003,0.498023
+"Colombia","Rice, paddy",2004,0.519736
+"Colombia","Rice, paddy",2005,0.456005
+"Colombia","Rice, paddy",2006,0.429911
+"Colombia","Rice, paddy",2007,0.431898
+"Colombia","Rice, paddy",2008,0.493554
+"Colombia","Rice, paddy",2009,0.528138
+"Colombia","Rice, paddy",2010,0.482297
+"Colombia","Rice, paddy",2011,0.507709
+"Colombia","Rice, paddy",2012,0.482198
+"Colombia","Rice, paddy",2013,0.520337
+"Colombia","Rice, paddy",2014,0.461273
+"Colombia","Rice, paddy",2015,0.510897
+"Colombia","Other",2001,2.089967
+"Colombia","Other",2002,2.058713
+"Colombia","Other",2003,2.123732
+"Colombia","Other",2004,2.148034
+"Colombia","Other",2005,2.16273
+"Colombia","Other",2006,2.179195
+"Colombia","Other",2007,2.236335
+"Colombia","Other",2008,2.187923
+"Colombia","Other",2009,2.126762
+"Colombia","Other",2010,2.119531
+"Colombia","Other",2011,2.159762
+"Colombia","Other",2012,2.279206
+"Colombia","Other",2013,2.387691
+"Colombia","Other",2014,2.369256
+"Colombia","Other",2015,2.502052
+"DRC","Cassava",2001,1.902359
+"DRC","Cassava",2002,1.839985
+"DRC","Cassava",2003,1.841825
+"DRC","Cassava",2004,1.842559
+"DRC","Cassava",2005,1.84551
+"DRC","Cassava",2006,1.877355
+"DRC","Cassava",2007,1.849203
+"DRC","Cassava",2008,1.851051
+"DRC","Cassava",2009,1.852902
+"DRC","Cassava",2010,1.854754
+"DRC","Cassava",2011,1.853122
+"DRC","Cassava",2012,1.820451
+"DRC","Cassava",2013,1.804356
+"DRC","Cassava",2014,1.811141
+"DRC","Cassava",2015,1.806235
+"DRC","Maize",2001,1.463314
+"DRC","Maize",2002,1.482118
+"DRC","Maize",2003,1.482413
+"DRC","Maize",2004,1.482709
+"DRC","Maize",2005,1.483004
+"DRC","Maize",2006,1.483299
+"DRC","Maize",2007,1.483594
+"DRC","Maize",2008,1.48389
+"DRC","Maize",2009,1.484185
+"DRC","Maize",2010,1.484775
+"DRC","Maize",2011,1.486616
+"DRC","Maize",2012,1.506565
+"DRC","Maize",2013,1.513167
+"DRC","Maize",2014,1.510248
+"DRC","Maize",2015,1.514248
+"DRC","Other",2001,2.557604
+"DRC","Other",2002,2.500985
+"DRC","Other",2003,2.524221
+"DRC","Other",2004,2.587502
+"DRC","Other",2005,2.621864
+"DRC","Other",2006,2.634834
+"DRC","Other",2007,2.677254
+"DRC","Other",2008,2.70478
+"DRC","Other",2009,2.724686
+"DRC","Other",2010,2.863694
+"DRC","Other",2011,3.112594
+"DRC","Other",2012,3.126145
+"DRC","Other",2013,3.069502
+"DRC","Other",2014,3.115082
+"DRC","Other",2015,3.145228
+"Indonesia","Oil palm fruit",2001,2.2
+"Indonesia","Oil palm fruit",2002,2.79
+"Indonesia","Oil palm fruit",2003,3.04
+"Indonesia","Oil palm fruit",2004,3.32
+"Indonesia","Oil palm fruit",2005,3.69
+"Indonesia","Oil palm fruit",2006,4.11
+"Indonesia","Oil palm fruit",2007,4.56
+"Indonesia","Oil palm fruit",2008,4.98
+"Indonesia","Oil palm fruit",2009,5.37
+"Indonesia","Oil palm fruit",2010,5.78
+"Indonesia","Oil palm fruit",2011,6.17
+"Indonesia","Oil palm fruit",2012,6.65
+"Indonesia","Oil palm fruit",2013,7.08
+"Indonesia","Oil palm fruit",2014,8.15
+"Indonesia","Oil palm fruit",2015,8.63
+"Indonesia","Rice, paddy",2001,11.5
+"Indonesia","Rice, paddy",2002,11.521166
+"Indonesia","Rice, paddy",2003,11.477357
+"Indonesia","Rice, paddy",2004,11.922974
+"Indonesia","Rice, paddy",2005,11.83906
+"Indonesia","Rice, paddy",2006,11.78643
+"Indonesia","Rice, paddy",2007,12.147637
+"Indonesia","Rice, paddy",2008,12.309155
+"Indonesia","Rice, paddy",2009,12.883576
+"Indonesia","Rice, paddy",2010,13.25345
+"Indonesia","Rice, paddy",2011,13.203643
+"Indonesia","Rice, paddy",2012,13.445524
+"Indonesia","Rice, paddy",2013,13.835252
+"Indonesia","Rice, paddy",2014,13.797307
+"Indonesia","Rice, paddy",2015,14.116638
+"Indonesia","Other",2001,18.021728
+"Indonesia","Other",2002,17.665211
+"Indonesia","Other",2003,18.328783
+"Indonesia","Other",2004,18.377935
+"Indonesia","Other",2005,19.360191
+"Indonesia","Other",2006,18.241921
+"Indonesia","Other",2007,18.776371
+"Indonesia","Other",2008,20.422027
+"Indonesia","Other",2009,21.044234
+"Indonesia","Other",2010,20.937583
+"Indonesia","Other",2011,20.83114
+"Indonesia","Other",2012,21.136481
+"Indonesia","Other",2013,20.74361
+"Indonesia","Other",2014,20.768563
+"Indonesia","Other",2015,20.641257
+"Laos","Maize",2001,0.04387
+"Laos","Maize",2002,0.044956
+"Laos","Maize",2003,0.05167
+"Laos","Maize",2004,0.0675
+"Laos","Maize",2005,0.086
+"Laos","Maize",2006,0.113815
+"Laos","Maize",2007,0.15771
+"Laos","Maize",2008,0.22922
+"Laos","Maize",2009,0.2076
+"Laos","Maize",2010,0.212745
+"Laos","Maize",2011,0.212105
+"Laos","Maize",2012,0.196815
+"Laos","Maize",2013,0.21203
+"Laos","Maize",2014,0.243385
+"Laos","Maize",2015,0.254025
+"Laos","Rice, paddy",2001,0.746775
+"Laos","Rice, paddy",2002,0.738104
+"Laos","Rice, paddy",2003,0.756317
+"Laos","Rice, paddy",2004,0.77032
+"Laos","Rice, paddy",2005,0.73602
+"Laos","Rice, paddy",2006,0.742905
+"Laos","Rice, paddy",2007,0.727863
+"Laos","Rice, paddy",2008,0.786265
+"Laos","Rice, paddy",2009,0.818561
+"Laos","Rice, paddy",2010,0.855114
+"Laos","Rice, paddy",2011,0.81725
+"Laos","Rice, paddy",2012,0.933767
+"Laos","Rice, paddy",2013,0.89119
+"Laos","Rice, paddy",2014,0.957836
+"Laos","Rice, paddy",2015,0.965152
+"Laos","Other",2001,0.254091
+"Laos","Other",2002,0.271079
+"Laos","Other",2003,0.292448
+"Laos","Other",2004,0.288251
+"Laos","Other",2005,0.275458
+"Laos","Other",2006,0.285083
+"Laos","Other",2007,0.288758
+"Laos","Other",2008,0.29731
+"Laos","Other",2009,0.352199
+"Laos","Other",2010,0.36396
+"Laos","Other",2011,0.408432
+"Laos","Other",2012,0.39255
+"Laos","Other",2013,0.419104
+"Laos","Other",2014,0.496032
+"Laos","Other",2015,0.543158
+"Madagascar","Cassava",2001,0.351985
+"Madagascar","Cassava",2002,0.352345
+"Madagascar","Cassava",2003,0.352815
+"Madagascar","Cassava",2004,0.35329
+"Madagascar","Cassava",2005,0.388779
+"Madagascar","Cassava",2006,0.39225
+"Madagascar","Cassava",2007,0.394875
+"Madagascar","Cassava",2008,0.393815
+"Madagascar","Cassava",2009,0.402349
+"Madagascar","Cassava",2010,0.405816
+"Madagascar","Cassava",2011,0.472013
+"Madagascar","Cassava",2012,0.475148
+"Madagascar","Cassava",2013,0.400813
+"Madagascar","Cassava",2014,0.372787
+"Madagascar","Cassava",2015,0.336833
+"Madagascar","Rice, paddy",2001,1.21265
+"Madagascar","Rice, paddy",2002,1.21602
+"Madagascar","Rice, paddy",2003,1.2194
+"Madagascar","Rice, paddy",2004,1.238
+"Madagascar","Rice, paddy",2005,1.25
+"Madagascar","Rice, paddy",2006,1.26066
+"Madagascar","Rice, paddy",2007,1.27203
+"Madagascar","Rice, paddy",2008,1.28356
+"Madagascar","Rice, paddy",2009,1.295186
+"Madagascar","Rice, paddy",2010,1.307043
+"Madagascar","Rice, paddy",2011,1.137437
+"Madagascar","Rice, paddy",2012,1.208304
+"Madagascar","Rice, paddy",2013,0.915259
+"Madagascar","Rice, paddy",2014,0.968753
+"Madagascar","Rice, paddy",2015,0.872262
+"Madagascar","Other",2001,1.232671
+"Madagascar","Other",2002,1.222884
+"Madagascar","Other",2003,1.2423
+"Madagascar","Other",2004,1.250393
+"Madagascar","Other",2005,1.254087
+"Madagascar","Other",2006,1.282811
+"Madagascar","Other",2007,1.297982
+"Madagascar","Other",2008,1.3167
+"Madagascar","Other",2009,1.333523
+"Madagascar","Other",2010,1.340581
+"Madagascar","Other",2011,1.381265
+"Madagascar","Other",2012,1.403722
+"Madagascar","Other",2013,1.362619
+"Madagascar","Other",2014,1.369705
+"Madagascar","Other",2015,1.34
+"Malaysia","Oil palm fruit",2001,3.499012
+"Malaysia","Oil palm fruit",2002,3.670243
+"Malaysia","Oil palm fruit",2003,3.80204
+"Malaysia","Oil palm fruit",2004,3.875327
+"Malaysia","Oil palm fruit",2005,4.051374
+"Malaysia","Oil palm fruit",2006,4.165215
+"Malaysia","Oil palm fruit",2007,4.304913
+"Malaysia","Oil palm fruit",2008,4.487957
+"Malaysia","Oil palm fruit",2009,4.69116
+"Malaysia","Oil palm fruit",2010,4.853766
+"Malaysia","Oil palm fruit",2011,5.000109
+"Malaysia","Oil palm fruit",2012,5.076929
+"Malaysia","Oil palm fruit",2013,5.229739
+"Malaysia","Oil palm fruit",2014,4.689321
+"Malaysia","Oil palm fruit",2015,4.859397
+"Malaysia","Rubber, natural",2001,1.38932
+"Malaysia","Rubber, natural",2002,1.34881
+"Malaysia","Rubber, natural",2003,1.325611
+"Malaysia","Rubber, natural",2004,1.2788
+"Malaysia","Rubber, natural",2005,1.27128
+"Malaysia","Rubber, natural",2006,1.26359
+"Malaysia","Rubber, natural",2007,1.24801
+"Malaysia","Rubber, natural",2008,1.24703
+"Malaysia","Rubber, natural",2009,1.02823
+"Malaysia","Rubber, natural",2010,1.0204
+"Malaysia","Rubber, natural",2011,1.02704
+"Malaysia","Rubber, natural",2012,1.04119
+"Malaysia","Rubber, natural",2013,1.057271
+"Malaysia","Rubber, natural",2014,1.0656
+"Malaysia","Rubber, natural",2015,1.07453
+"Malaysia","Other",2001,1.292084
+"Malaysia","Other",2002,1.292927
+"Malaysia","Other",2003,1.2821
+"Malaysia","Other",2004,1.287752
+"Malaysia","Other",2005,1.274096
+"Malaysia","Other",2006,1.164879
+"Malaysia","Other",2007,1.170229
+"Malaysia","Other",2008,1.136595
+"Malaysia","Other",2009,1.140119
+"Malaysia","Other",2010,1.13835
+"Malaysia","Other",2011,1.181974
+"Malaysia","Other",2012,1.150227
+"Malaysia","Other",2013,1.130008
+"Malaysia","Other",2014,1.086935
+"Malaysia","Other",2015,1.092101
+"Mexico","Maize",2001,7.81085
+"Mexico","Maize",2002,7.119724
+"Mexico","Maize",2003,7.5209
+"Mexico","Maize",2004,7.68766
+"Mexico","Maize",2005,6.6056
+"Mexico","Maize",2006,7.294842
+"Mexico","Maize",2007,7.333277
+"Mexico","Maize",2008,7.35394
+"Mexico","Maize",2009,6.223047
+"Mexico","Maize",2010,7.148045
+"Mexico","Maize",2011,6.069092
+"Mexico","Maize",2012,6.9239
+"Mexico","Maize",2013,7.09563
+"Mexico","Maize",2014,7.060275
+"Mexico","Maize",2015,7.099724
+"Mexico","Sorghum",2001,1.94278
+"Mexico","Sorghum",2002,1.743616
+"Mexico","Sorghum",2003,1.9726
+"Mexico","Sorghum",2004,1.8325
+"Mexico","Sorghum",2005,1.599235
+"Mexico","Sorghum",2006,1.60043
+"Mexico","Sorghum",2007,1.774975
+"Mexico","Sorghum",2008,1.83813
+"Mexico","Sorghum",2009,1.690518
+"Mexico","Sorghum",2010,1.768382
+"Mexico","Sorghum",2011,1.728228
+"Mexico","Sorghum",2012,1.819945
+"Mexico","Sorghum",2013,1.688917
+"Mexico","Sorghum",2014,2.013909
+"Mexico","Sorghum",2015,1.658674
+"Mexico","Other",2001,7.192174
+"Mexico","Other",2002,7.174341
+"Mexico","Other",2003,7.274134
+"Mexico","Other",2004,7.08778
+"Mexico","Other",2005,6.674989
+"Mexico","Other",2006,7.150433
+"Mexico","Other",2007,6.991671
+"Mexico","Other",2008,7.197952
+"Mexico","Other",2009,6.795973
+"Mexico","Other",2010,7.262678
+"Mexico","Other",2011,6.415334
+"Mexico","Other",2012,7.281134
+"Mexico","Other",2013,7.457059
+"Mexico","Other",2014,7.705486
+"Mexico","Other",2015,7.705412
+"Myanmar","Beans, dry",2001,1.849548
+"Myanmar","Beans, dry",2002,2
+"Myanmar","Beans, dry",2003,2.055
+"Myanmar","Beans, dry",2004,2.071
+"Myanmar","Beans, dry",2005,2.184
+"Myanmar","Beans, dry",2006,2.394
+"Myanmar","Beans, dry",2007,2.536
+"Myanmar","Beans, dry",2008,2.725
+"Myanmar","Beans, dry",2009,2.719
+"Myanmar","Beans, dry",2010,2.71
+"Myanmar","Beans, dry",2011,2.712
+"Myanmar","Beans, dry",2012,2.771144
+"Myanmar","Beans, dry",2013,2.975454
+"Myanmar","Beans, dry",2014,2.987178
+"Myanmar","Beans, dry",2015,3.03582
+"Myanmar","Rice, paddy",2001,6.411996
+"Myanmar","Rice, paddy",2002,6.376637
+"Myanmar","Rice, paddy",2003,6.527585
+"Myanmar","Rice, paddy",2004,6.807628
+"Myanmar","Rice, paddy",2005,7.383901
+"Myanmar","Rice, paddy",2006,8.074295
+"Myanmar","Rice, paddy",2007,8.011164
+"Myanmar","Rice, paddy",2008,8.077533
+"Myanmar","Rice, paddy",2009,8.058108
+"Myanmar","Rice, paddy",2010,8.011164
+"Myanmar","Rice, paddy",2011,7.566819
+"Myanmar","Rice, paddy",2012,6.988927
+"Myanmar","Rice, paddy",2013,6.95291
+"Myanmar","Rice, paddy",2014,6.869545
+"Myanmar","Rice, paddy",2015,6.769494
+"Myanmar","Other",2001,5.501501
+"Myanmar","Other",2002,5.689776
+"Myanmar","Other",2003,5.976961
+"Myanmar","Other",2004,6.132592
+"Myanmar","Other",2005,6.195682
+"Myanmar","Other",2006,6.657289
+"Myanmar","Other",2007,6.825799
+"Myanmar","Other",2008,7.291507
+"Myanmar","Other",2009,7.547967
+"Myanmar","Other",2010,7.564446
+"Myanmar","Other",2011,7.21312
+"Myanmar","Other",2012,7.151173
+"Myanmar","Other",2013,7.288895
+"Myanmar","Other",2014,7.266661
+"Myanmar","Other",2015,7.364648
+"Paraguay","Maize",2001,0.406365
+"Paraguay","Maize",2002,0.36996
+"Paraguay","Maize",2003,0.4426
+"Paraguay","Maize",2004,0.44
+"Paraguay","Maize",2005,0.4
+"Paraguay","Maize",2006,0.616002
+"Paraguay","Maize",2007,0.72525
+"Paraguay","Maize",2008,0.858101
+"Paraguay","Maize",2009,0.7741
+"Paraguay","Maize",2010,0.794034
+"Paraguay","Maize",2011,0.853592
+"Paraguay","Maize",2012,0.995
+"Paraguay","Maize",2013,1.030003
+"Paraguay","Maize",2014,0.8
+"Paraguay","Maize",2015,0.95
+"Paraguay","Soybeans",2001,1.35
+"Paraguay","Soybeans",2002,1.44536
+"Paraguay","Soybeans",2003,1.474148
+"Paraguay","Soybeans",2004,1.87
+"Paraguay","Soybeans",2005,1.97
+"Paraguay","Soybeans",2006,2.2
+"Paraguay","Soybeans",2007,2.4
+"Paraguay","Soybeans",2008,2.46351
+"Paraguay","Soybeans",2009,2.57
+"Paraguay","Soybeans",2010,2.671059
+"Paraguay","Soybeans",2011,2.805467
+"Paraguay","Soybeans",2012,2.92
+"Paraguay","Soybeans",2013,3.08
+"Paraguay","Soybeans",2014,3.5
+"Paraguay","Soybeans",2015,3.54
+"Paraguay","Other",2001,1.29346
+"Paraguay","Other",2002,1.195717
+"Paraguay","Other",2003,1.278687
+"Paraguay","Other",2004,1.473934
+"Paraguay","Other",2005,1.492367
+"Paraguay","Other",2006,1.539411
+"Paraguay","Other",2007,1.399136
+"Paraguay","Other",2008,1.188019
+"Paraguay","Other",2009,1.461399
+"Paraguay","Other",2010,1.483346
+"Paraguay","Other",2011,1.466515
+"Paraguay","Other",2012,1.496718
+"Paraguay","Other",2013,1.455942
+"Paraguay","Other",2014,1.487449
+"Paraguay","Other",2015,1.542052
+"Peru","Coffee, green",2001,0.274252
+"Peru","Coffee, green",2002,0.287379
+"Peru","Coffee, green",2003,0.291844
+"Peru","Coffee, green",2004,0.295139
+"Peru","Coffee, green",2005,0.301534
+"Peru","Coffee, green",2006,0.321449
+"Peru","Coffee, green",2007,0.324062
+"Peru","Coffee, green",2008,0.333388
+"Peru","Coffee, green",2009,0.342621
+"Peru","Coffee, green",2010,0.349633
+"Peru","Coffee, green",2011,0.367096
+"Peru","Coffee, green",2012,0.370632
+"Peru","Coffee, green",2013,0.399523
+"Peru","Coffee, green",2014,0.361671
+"Peru","Coffee, green",2015,0.379187
+"Peru","Maize",2001,0.5064
+"Peru","Maize",2002,0.483322
+"Peru","Maize",2003,0.487296
+"Peru","Maize",2004,0.448877
+"Peru","Maize",2005,0.471968
+"Peru","Maize",2006,0.467762
+"Peru","Maize",2007,0.482263
+"Peru","Maize",2008,0.499073
+"Peru","Maize",2009,0.514945
+"Peru","Maize",2010,0.497176
+"Peru","Maize",2011,0.475671
+"Peru","Maize",2012,0.505944
+"Peru","Maize",2013,0.511062
+"Peru","Maize",2014,0.484047
+"Peru","Maize",2015,0.513834
+"Peru","Rice, paddy",2001,0.3028
+"Peru","Rice, paddy",2002,0.316807
+"Peru","Rice, paddy",2003,0.313856
+"Peru","Rice, paddy",2004,0.286468
+"Peru","Rice, paddy",2005,0.357883
+"Peru","Rice, paddy",2006,0.343691
+"Peru","Rice, paddy",2007,0.337639
+"Peru","Rice, paddy",2008,0.379783
+"Peru","Rice, paddy",2009,0.404614
+"Peru","Rice, paddy",2010,0.388659
+"Peru","Rice, paddy",2011,0.359612
+"Peru","Rice, paddy",2012,0.390919
+"Peru","Rice, paddy",2013,0.395651
+"Peru","Rice, paddy",2014,0.381368
+"Peru","Rice, paddy",2015,0.399501
+"Peru","Other",2001,1.609809
+"Peru","Other",2002,1.644312
+"Peru","Other",2003,1.634816
+"Peru","Other",2004,1.621876
+"Peru","Other",2005,1.682007
+"Peru","Other",2006,1.753603
+"Peru","Other",2007,1.776364
+"Peru","Other",2008,1.826443
+"Peru","Other",2009,1.860702
+"Peru","Other",2010,1.883588
+"Peru","Other",2011,1.886133
+"Peru","Other",2012,1.962401
+"Peru","Other",2013,2.037369
+"Peru","Other",2014,2.047316
+"Peru","Other",2015,2.072023
+"Philippines","Coconuts",2001,3.148651
+"Philippines","Coconuts",2002,3.18167
+"Philippines","Coconuts",2003,3.216528
+"Philippines","Coconuts",2004,3.258576
+"Philippines","Coconuts",2005,3.243278
+"Philippines","Coconuts",2006,3.337378
+"Philippines","Coconuts",2007,3.359777
+"Philippines","Coconuts",2008,3.37974
+"Philippines","Coconuts",2009,3.4015
+"Philippines","Coconuts",2010,3.575944
+"Philippines","Coconuts",2011,3.561981
+"Philippines","Coconuts",2012,3.574614
+"Philippines","Coconuts",2013,3.551299
+"Philippines","Coconuts",2014,3.502011
+"Philippines","Coconuts",2015,3.517743
+"Philippines","Maize",2001,2.486588
+"Philippines","Maize",2002,2.395456
+"Philippines","Maize",2003,2.409828
+"Philippines","Maize",2004,2.527135
+"Philippines","Maize",2005,2.441788
+"Philippines","Maize",2006,2.570673
+"Philippines","Maize",2007,2.648317
+"Philippines","Maize",2008,2.661021
+"Philippines","Maize",2009,2.68389
+"Philippines","Maize",2010,2.49904
+"Philippines","Maize",2011,2.544612
+"Philippines","Maize",2012,2.593924
+"Philippines","Maize",2013,2.563718
+"Philippines","Maize",2014,2.611432
+"Philippines","Maize",2015,2.561934
+"Philippines","Rice, paddy",2001,4.065441
+"Philippines","Rice, paddy",2002,4.046318
+"Philippines","Rice, paddy",2003,4.006421
+"Philippines","Rice, paddy",2004,4.126645
+"Philippines","Rice, paddy",2005,4.070421
+"Philippines","Rice, paddy",2006,4.15993
+"Philippines","Rice, paddy",2007,4.272889
+"Philippines","Rice, paddy",2008,4.459977
+"Philippines","Rice, paddy",2009,4.53231
+"Philippines","Rice, paddy",2010,4.354161
+"Philippines","Rice, paddy",2011,4.536642
+"Philippines","Rice, paddy",2012,4.690061
+"Philippines","Rice, paddy",2013,4.746091
+"Philippines","Rice, paddy",2014,4.739672
+"Philippines","Rice, paddy",2015,4.656227
+"Philippines","Other",2001,3.166177
+"Philippines","Other",2002,3.212366
+"Philippines","Other",2003,3.276774
+"Philippines","Other",2004,3.235637
+"Philippines","Other",2005,3.279318
+"Philippines","Other",2006,3.322953
+"Philippines","Other",2007,3.424619
+"Philippines","Other",2008,3.505614
+"Philippines","Other",2009,3.562235
+"Philippines","Other",2010,3.539537
+"Philippines","Other",2011,3.688375
+"Philippines","Other",2012,3.71797
+"Philippines","Other",2013,3.749887
+"Philippines","Other",2014,3.810726
+"Philippines","Other",2015,3.883872
+"Thailand","Rice, paddy",2001,10.125424
+"Thailand","Rice, paddy",2002,9.653534
+"Thailand","Rice, paddy",2003,10.163878
+"Thailand","Rice, paddy",2004,9.992868
+"Thailand","Rice, paddy",2005,10.224967
+"Thailand","Rice, paddy",2006,10.165155
+"Thailand","Rice, paddy",2007,10.668905
+"Thailand","Rice, paddy",2008,10.683549
+"Thailand","Rice, paddy",2009,11.141447
+"Thailand","Rice, paddy",2010,11.93232
+"Thailand","Rice, paddy",2011,11.956638
+"Thailand","Rice, paddy",2012,11.956781
+"Thailand","Rice, paddy",2013,11.684315
+"Thailand","Rice, paddy",2014,10.664923
+"Thailand","Rice, paddy",2015,9.717975
+"Thailand","Rubber, natural",2001,1.503944
+"Thailand","Rubber, natural",2002,1.553764
+"Thailand","Rubber, natural",2003,1.600658
+"Thailand","Rubber, natural",2004,1.655991
+"Thailand","Rubber, natural",2005,1.691099
+"Thailand","Rubber, natural",2006,1.742896
+"Thailand","Rubber, natural",2007,1.766849
+"Thailand","Rubber, natural",2008,1.819502
+"Thailand","Rubber, natural",2009,1.856072
+"Thailand","Rubber, natural",2010,1.929257
+"Thailand","Rubber, natural",2011,2.042502
+"Thailand","Rubber, natural",2012,2.51976
+"Thailand","Rubber, natural",2013,2.634034
+"Thailand","Rubber, natural",2014,2.915813
+"Thailand","Rubber, natural",2015,3.015361
+"Thailand","Other",2001,6.597312
+"Thailand","Other",2002,6.496367
+"Thailand","Other",2003,6.66289
+"Thailand","Other",2004,6.612521
+"Thailand","Other",2005,6.432182
+"Thailand","Other",2006,6.326653
+"Thailand","Other",2007,6.591035
+"Thailand","Other",2008,6.677094
+"Thailand","Other",2009,6.79237
+"Thailand","Other",2010,6.774315
+"Thailand","Other",2011,6.899523
+"Thailand","Other",2012,7.091133
+"Thailand","Other",2013,6.991385
+"Thailand","Other",2014,6.973836
+"Thailand","Other",2015,7.119872
+"USA","Maize",2001,27.82972
+"USA","Maize",2002,28.05716
+"USA","Maize",2003,28.71033
+"USA","Maize",2004,29.79773
+"USA","Maize",2005,30.3991
+"USA","Maize",2006,28.58649
+"USA","Maize",2007,35.01378
+"USA","Maize",2008,31.79649
+"USA","Maize",2009,32.16881
+"USA","Maize",2010,32.96038
+"USA","Maize",2011,33.94499
+"USA","Maize",2012,35.35574
+"USA","Maize",2013,35.39055
+"USA","Maize",2014,33.64431
+"USA","Maize",2015,32.67831
+"USA","Soybeans",2001,29.53225
+"USA","Soybeans",2002,29.33881
+"USA","Soybeans",2003,29.33031
+"USA","Soybeans",2004,29.93006
+"USA","Soybeans",2005,28.83457
+"USA","Soybeans",2006,30.19068
+"USA","Soybeans",2007,25.95924
+"USA","Soybeans",2008,30.22265
+"USA","Soybeans",2009,30.90698
+"USA","Soybeans",2010,31.0033
+"USA","Soybeans",2011,29.85641
+"USA","Soybeans",2012,30.81472
+"USA","Soybeans",2013,30.85883
+"USA","Soybeans",2014,33.42375
+"USA","Soybeans",2015,33.12347
+"USA","Wheat",2001,19.616538
+"USA","Wheat",2002,18.544516
+"USA","Wheat",2003,21.47407
+"USA","Wheat",2004,20.221956
+"USA","Wheat",2005,20.276588
+"USA","Wheat",2006,18.939492
+"USA","Wheat",2007,20.638784
+"USA","Wheat",2008,22.540828
+"USA","Wheat",2009,20.1912
+"USA","Wheat",2010,19.27093
+"USA","Wheat",2011,18.496174
+"USA","Wheat",2012,19.797644
+"USA","Wheat",2013,18.34541
+"USA","Wheat",2014,18.77155
+"USA","Wheat",2015,19.05847
+"USA","Other",2001,21.321873
+"USA","Other",2002,20.054701
+"USA","Other",2003,20.245895
+"USA","Other",2004,19.364116
+"USA","Other",2005,19.927107
+"USA","Other",2006,18.08521
+"USA","Other",2007,18.020917
+"USA","Other",2008,17.248333
+"USA","Other",2009,15.878882
+"USA","Other",2010,17.344557
+"USA","Other",2011,14.776098
+"USA","Other",2012,16.803016
+"USA","Other",2013,15.933519
+"USA","Other",2014,16.911576
+"USA","Other",2015,17.738391
+"Venezuela","Coffee, green",2001,0.233873
+"Venezuela","Coffee, green",2002,0.2381
+"Venezuela","Coffee, green",2003,0.20328
+"Venezuela","Coffee, green",2004,0.207732
+"Venezuela","Coffee, green",2005,0.205805
+"Venezuela","Coffee, green",2006,0.189184
+"Venezuela","Coffee, green",2007,0.184536
+"Venezuela","Coffee, green",2008,0.186376
+"Venezuela","Coffee, green",2009,0.185
+"Venezuela","Coffee, green",2010,0.19044
+"Venezuela","Coffee, green",2011,0.194607
+"Venezuela","Coffee, green",2012,0.170842
+"Venezuela","Coffee, green",2013,0.170598
+"Venezuela","Coffee, green",2014,0.159674
+"Venezuela","Coffee, green",2015,0.154779
+"Venezuela","Maize",2001,0.522252
+"Venezuela","Maize",2002,0.447483
+"Venezuela","Maize",2003,0.531147
+"Venezuela","Maize",2004,0.616284
+"Venezuela","Maize",2005,0.67252
+"Venezuela","Maize",2006,0.700871
+"Venezuela","Maize",2007,0.740372
+"Venezuela","Maize",2008,0.791545
+"Venezuela","Maize",2009,0.723664
+"Venezuela","Maize",2010,0.633407
+"Venezuela","Maize",2011,0.5831
+"Venezuela","Maize",2012,0.599496
+"Venezuela","Maize",2013,0.641125
+"Venezuela","Maize",2014,0.60192
+"Venezuela","Maize",2015,0.460671
+"Venezuela","Rice, paddy",2001,0.154203
+"Venezuela","Rice, paddy",2002,0.134294
+"Venezuela","Rice, paddy",2003,0.137404
+"Venezuela","Rice, paddy",2004,0.19878
+"Venezuela","Rice, paddy",2005,0.215979
+"Venezuela","Rice, paddy",2006,0.226829
+"Venezuela","Rice, paddy",2007,0.208825
+"Venezuela","Rice, paddy",2008,0.216437
+"Venezuela","Rice, paddy",2009,0.229617
+"Venezuela","Rice, paddy",2010,0.180455
+"Venezuela","Rice, paddy",2011,0.189541
+"Venezuela","Rice, paddy",2012,0.209493
+"Venezuela","Rice, paddy",2013,0.21493
+"Venezuela","Rice, paddy",2014,0.226597
+"Venezuela","Rice, paddy",2015,0.169209
+"Venezuela","Other",2001,0.967018
+"Venezuela","Other",2002,0.852937
+"Venezuela","Other",2003,0.925075
+"Venezuela","Other",2004,0.942065
+"Venezuela","Other",2005,0.943802
+"Venezuela","Other",2006,0.931656
+"Venezuela","Other",2007,0.887937
+"Venezuela","Other",2008,0.908186
+"Venezuela","Other",2009,0.958781
+"Venezuela","Other",2010,1.041637
+"Venezuela","Other",2011,1.066148
+"Venezuela","Other",2012,0.763333
+"Venezuela","Other",2013,0.753714
+"Venezuela","Other",2014,0.762296
+"Venezuela","Other",2015,0.775025
+"Vietnam","Rice, paddy",2001,7.4927
+"Vietnam","Rice, paddy",2002,7.5043
+"Vietnam","Rice, paddy",2003,7.4522
+"Vietnam","Rice, paddy",2004,7.4453
+"Vietnam","Rice, paddy",2005,7.3292
+"Vietnam","Rice, paddy",2006,7.3248
+"Vietnam","Rice, paddy",2007,7.2074
+"Vietnam","Rice, paddy",2008,7.4002
+"Vietnam","Rice, paddy",2009,7.4372
+"Vietnam","Rice, paddy",2010,7.4894
+"Vietnam","Rice, paddy",2011,7.65544
+"Vietnam","Rice, paddy",2012,7.761314
+"Vietnam","Rice, paddy",2013,7.902813
+"Vietnam","Rice, paddy",2014,7.816476
+"Vietnam","Rice, paddy",2015,7.831119
+"Vietnam","Other",2001,4.681399
+"Vietnam","Other",2002,4.95901
+"Vietnam","Other",2003,5.071393
+"Vietnam","Other",2004,5.269428
+"Vietnam","Other",2005,5.441024
+"Vietnam","Other",2006,5.542731
+"Vietnam","Other",2007,5.705427
+"Vietnam","Other",2008,6.082009
+"Vietnam","Other",2009,5.646376
+"Vietnam","Other",2010,5.817562
+"Vietnam","Other",2011,5.818717
+"Vietnam","Other",2012,6.229756
+"Vietnam","Other",2013,6.41608
+"Vietnam","Other",2014,6.486231
+"Vietnam","Other",2015,6.522612
