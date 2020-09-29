@@ -36,8 +36,4 @@ ggplot(data=efficiency_deforestation,aes(efficeincy_gain,fraction_deforestation)
   scale_y_continuous(labels = scales::percent_format(accuracy = 1L)) +
   theme_bw()
 
-png("Figures/Annual_deforestation_022120.png",width=8,height=8,units="in",res=100)
-
-print(annual_plot)
-
-dev.off()
+ggsave("Figures/Deforestation_reduction_sensitivity_analysis.png", width = 4, height = 3.5)
