@@ -109,6 +109,10 @@ coef_spread <- function(x) {
 
 coef_lm_spread <- coef_spread(coef_lm)
 
+coef_lm_spread_labels <- paste0(signif(coef_lm_spread$year_estimate,1),
+                                "x + ",signif(coef_lm_spread$Intercept_estimate,1),
+                                ",\np < 0.01")
+
 zonal_gather_top_p_value <- coef_lm_spread %>%
   select(ADMIN,year_p_value) %>%
   left_join(zonal_gather_top,by="ADMIN")

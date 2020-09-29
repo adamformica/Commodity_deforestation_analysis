@@ -34,6 +34,8 @@ deforestation_area_harvested <- left_join(cumulative_deforestation,area_harveste
          cumulative_deforestation_global=loss_area_cumulative_global,
          area_harvested=top_crop_area)
 
+write.csv(deforestation_area_harvested,"Data_preprocessing_and_plotting/deforestation_area_harvested.csv",row.names = FALSE)
+
 #' add columns for spared area and fraction of country and global deforestation
 #' if fraction deforestation reduced > 1, set it to 1
 #' because it's impossible to reduce more deforestation than there is

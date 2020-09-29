@@ -220,3 +220,43 @@ png("Figures/Cumulative_deforestation_022020.png",width=8,height=8,units="in",re
 print(cumulative_plot)
 
 dev.off()
+
+
+
+# show that the log-log plot is a straight line to justify power law
+
+coef_log_lm_spread_neg_int <- coef_log_lm_spread %>% filter(Intercept_estimate<0)
+coef_log_lm_spread_pos_int <- coef_log_lm_spread %>% filter(Intercept_estimate>=0)
+
+coef_log_lm_spread_neg_int$label <- paste0(signif(coef_log_lm_spread_neg_int$log_year_estimate,2),
+                                           "x - ",abs(signif(coef_log_lm_spread_neg_int$Intercept_estimate,2)))
+
+coef_log_lm_spread_pos_int$label <- paste0(signif(coef_log_lm_spread_pos_int$log_year_estimate,2),
+                                           "x + ",signif(coef_log_lm_spread_pos_int$Intercept_estimate,2))
+
+coef_log_lm_spread_labels <- bind_rows(coef_log_lm_spread_neg_int,coef_log_lm_spread_pos_int) %>%
+  select(ADMIN,label) %>%
+  arrange(ADMIN)
+
+coef_log_lm_spread_labels$x_value <- -Inf 
+
+coef_log_lm_spread_labels$y_value <- Inf
+
+cumulative_log_log_plot <- ggplot(zonal_gather_top_years_corrected,aes(log(year),log(loss_area_cumulative))) +
+  geom_point() +
+  geom_smooth(method="lm", col = "black", size=0.5, se=FALSE) +
+  facet_wrap(~ADMIN, scales = "free", ncol=4) +
+  labs(x = "Log(years after 2000)", y = "Log(cumulative commodity deforestation) (Mha)") +
+  geom_text(
+    data    = coef_log_lm_spread_labels,
+    mapping = aes(x = x_value, y = y_value, label = label),
+    hjust   = "inward",
+    vjust   = "inward"
+  ) +
+  theme_bw()
+
+png("Figures/Cumulative_deforestation_log_log_092820.png",width=8,height=8,units="in",res=100)
+
+print(cumulative_log_log_plot)
+
+dev.off()
