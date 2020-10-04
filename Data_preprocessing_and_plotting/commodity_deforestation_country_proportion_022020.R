@@ -1,6 +1,7 @@
 library(ggplot2)
 library(dplyr)
 library(tidyr)
+library(broom)
 
 setwd("C:/Users/Sensonomic Admin/Dropbox/Oxford/DPhil/Commodity deforestation/Commodity_deforestation_analysis_GitHub/Commodity_deforestation_analysis/")
 
@@ -38,3 +39,31 @@ png("Figures/Country_percent_deforestation_022120.png",width=6,height=6,units="i
 print(percent_plot)
 
 dev.off()
+
+
+
+# show that the log-log plot is a straight line to justify power law
+
+percent_top$rank <- seq(1,nrow(percent_top))
+
+percent_top_log_lm <- lm(log(percent_loss_area) ~ log(rank), data = percent_top)
+
+log_lm_tidy <- tidy(percent_top_log_lm)
+
+label <- paste0(signif(log_lm_tidy$estimate[2],2),
+                 "x + ",signif(log_lm_tidy$estimate[1],2),
+                "\np < 0.01")
+
+ggplot(data=percent_top,
+       aes(log(rank),log(percent_loss_area))) +
+  geom_point() +
+  geom_smooth(method="lm", col = "black", size=0.5, se=FALSE) +
+  ylab("Log(percent global deforestation)") +
+  xlab("Log(country rank)") +
+  annotate("text",
+           x = Inf, y = Inf, label = label,
+           hjust   = 1,
+           vjust   = 1) +
+  theme_bw() 
+
+ggsave("Figures/Country_percent_deforestation_log_log_plot_092920.png", width = 4, height = 3.5)
